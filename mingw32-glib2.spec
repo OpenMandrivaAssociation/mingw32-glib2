@@ -5,7 +5,7 @@
 %define __find_provides %{_mingw32_findprovides}
 
 Name:           mingw32-glib2
-Version:        2.19.5
+Version:        2.19.10
 Release:        %mkrel 1
 Summary:        MinGW Windows GLib2 library
 
