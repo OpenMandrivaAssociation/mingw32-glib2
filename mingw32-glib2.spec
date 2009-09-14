@@ -6,7 +6,7 @@
 
 Name:           mingw32-glib2
 Version:        2.19.10
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        MinGW Windows GLib2 library
 
 License:        LGPLv2+
