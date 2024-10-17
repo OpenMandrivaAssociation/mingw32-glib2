@@ -11,7 +11,7 @@ Summary:        MinGW Windows GLib2 library
 
 License:        LGPLv2+
 Group:          Development/Other
-URL:            http://www.gtk.org
+URL:            https://www.gtk.org
 Source0:        http://download.gnome.org/sources/glib/2.19/glib-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
